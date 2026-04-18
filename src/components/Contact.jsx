@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <section id="contact" className="section bg-secondary">
       <div className="container">
-        
+
         {/* Achievements Section */}
         <div className="achievements-section animate-on-scroll">
           <h2 className="section-title">Achievements</h2>
@@ -17,7 +17,7 @@ const Contact = () => {
             <div className="achievement-info">
               <h3>Semi-finalist, Flipkart GRID 7.0</h3>
               <p>
-                Qualified for the national semi-final round among thousands of participants 
+                Qualified for the national semi-final round among thousands of participants
                 in a highly competitive technical challenge.
               </p>
             </div>
@@ -27,7 +27,7 @@ const Contact = () => {
         {/* Contact Section */}
         <div className="contact-wrapper animate-on-scroll">
           <div className="contact-header">
-            <h2 className="section-title" style={{marginBottom: '1rem'}}>Get In Touch</h2>
+            <h2 className="section-title" style={{ marginBottom: '1rem' }}>Get In Touch</h2>
             <p className="contact-subtitle">
               Have a project in mind or just want to say hi? My inbox is always open.
               I will try my best to get back to you!
@@ -40,7 +40,7 @@ const Contact = () => {
                 <Mail className="contact-icon" size={24} />
                 <div>
                   <h4>Email Me</h4>
-                  <a href="mailto:kunaldev9142@gmail.com">kunaldev9142@gmail.com</a>
+                  <a href="mailto:kunaldev13062020@gmail.com">kunaldev13062020@gmail.com</a>
                 </div>
               </div>
 
